@@ -1,6 +1,6 @@
 <!-- TITLE: Welcome to DevOps Notebook -->
 <!-- SUBTITLE: DevOps notebooke is my personal notebook for cutting time searching on google -->
-
+<a href="/home/test2">test2</a>
 # Welcome to DevOps Notebook
 
 ```json
